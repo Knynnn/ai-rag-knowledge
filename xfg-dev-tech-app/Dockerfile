@@ -1,8 +1,8 @@
 # 基础镜像
-FROM openjdk:17-jdk-slim
+FROM openjdk:21-jdk-slim
 
 # 作者
-MAINTAINER xiaofuge
+MAINTAINER chenmingwei
 
 # 配置
 ENV PARAMS=""
